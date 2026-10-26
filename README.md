@@ -1,5 +1,8 @@
 # Roughpad
 
+**Live:** [draw.harshtomar.com](https://draw.harshtomar.com) ·
+**Source:** [github.com/harshtomar6/roughpad](https://github.com/harshtomar6/roughpad)
+
 A small Excalidraw-style sketchboard that turns rough pen strokes into clean,
 hand-drawn diagrams. Draw a wobbly rectangle, circle, arrow, star, or cloud and
 [Roughpad](#how-it-works) snaps it to real geometry while keeping a sketchy
